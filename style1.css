@@ -27,3 +27,19 @@ body{
 .navbar-dark{
 	background-color: grey;
 }
+
+section{
+	
+	border:2px solid #ccc;
+	margin: 8% 2% 2% 2%;
+	display: flex;
+	justify-content: center;
+	color: #737338;
+	text-transform: lowercase;
+	word-spacing: -2px;
+	letter-spacing: 1.5px;
+	font-size: 30px;
+	border: 2px solid #ccc;
+	border-radius: 4px;
+
+}
