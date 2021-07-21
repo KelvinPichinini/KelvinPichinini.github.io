@@ -3,10 +3,17 @@ font-family: "mathleteskinny";
 src: url("fonts/Mathlete-Skinny.otf") format("opentype");
 
 }
+nav{
+	font-weight:bold;
+	font-style:normal;
+	background-color: rgb(245,241,233);
+	word-spacing: -2px;
+    letter-spacing: 1px;
+    font-size: 130%;
+
+}
 
 body{
-	font-family: "mathleteskinny", Arial, sans-serif;
-	font-weight:bold;
 	font-style:normal;
 	background-color: rgb(245,241,233);
 	word-spacing: -2px;
